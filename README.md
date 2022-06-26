@@ -10,7 +10,7 @@ If multiple people are using it then you can send private messages also by just 
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Suesanz/Web-chat)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 # For development purpose
 
